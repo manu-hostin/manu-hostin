@@ -8,7 +8,6 @@
 
 ### 📚 Atualmente aprendendo:
 - Desenvolvimento de Sistemas: **Front-end**, **Back-end** e **Banco de Dados**
-- Tecnologias em foco: React ⚛️, Vue.js 🖼️, GSAP ✨
 
 ### 🌐 Todos os meus projetos estão disponíveis em:
 - [https://github.com/manu-hostin](https://github.com/manu-hostin)
