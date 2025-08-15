@@ -5,7 +5,7 @@
 
 ### 💼 Trabalhando em:
 - [WEGOne](https://github.com/manu-hostin/WEGOne)
-- [TalentHive](https://github.com/manu-hostin/Mobile-First-main.git)
+- [AI Writing Tools](https://github.com/manu-hostin/Landing-AIWritingTools.git)
 
 ### 📚 Atualmente aprendendo:
 - Desenvolvimento de Sistemas: **Front-end**, **Back-end** e **Banco de Dados**
