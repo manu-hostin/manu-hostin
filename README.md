@@ -5,7 +5,7 @@
 
 ### 💼 Trabalhando em:
 - [WEGOne](https://github.com/manu-hostin/WEGOne)
-- [AI Writing Tools](https://github.com/manu-hostin/Landing-AIWritingTools.git)
+- [Café Aurora/Tailwind]([https://github.com/manu-hostin/Landing-AIWritingTools.git](https://github.com/manu-hostin/Tailwind-Cafeteria.git))
 
 ### 📚 Atualmente aprendendo:
 - Desenvolvimento de Sistemas: **Front-end**, **Back-end** e **Banco de Dados**
