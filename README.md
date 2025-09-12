@@ -4,8 +4,7 @@
 ---
 
 ### 💼 Trabalhando em:
-- [WEGOne](https://github.com/manu-hostin/WEGOne)
-- [Cafeteria (Tailwind)](https://github.com/manu-hostin/Tailwind-Cafeteria.git)
+- [Sistema de Entregas-JDBC](https://github.com/manu-hostin/SistemaEntregas.git)
 - [Sistema de Hotel](https://github.com/manu-hostin/Sistema-Hotel.git)
 
 ### 📚 Atualmente aprendendo:
