@@ -6,6 +6,7 @@
 ### 💼 Trabalhando em:
 - [Sistema de Entregas-JDBC](https://github.com/manu-hostin/SistemaEntregas.git)
 - [Sistema de Hotel](https://github.com/manu-hostin/Sistema-Hotel.git)
+- [Sistema de Manutenção Industrial](https://github.com/manu-hostin/Sistema-Manutencao-Industrial)
 
 ### 📚 Atualmente aprendendo:
 - Desenvolvimento de Sistemas: **Front-end**, **Back-end** e **Banco de Dados**
