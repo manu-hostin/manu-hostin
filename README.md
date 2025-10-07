@@ -1,70 +1,58 @@
-<h1 align="center">Olá 👋, Meu nome é Emanuelle Cristina Hostin</h1>
-<h3 align="center">💻 Estudante de Desenvolvimento de Sistemas no CentroWEG | 17 anos | Unindo lógica e empatia para transformar ideias em soluções</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0B6B3A&center=true&vCenter=true&random=false&width=600&lines=✨+Bem-vindo(a)+ao+meu+GitHub!+✨">
+</h1>
 
 ---
 
-### 💼 Trabalhando em:
-- [Sistema de Entregas-JDBC](https://github.com/manu-hostin/SistemaEntregas.git)
-- [Sistema de Hotel](https://github.com/manu-hostin/Sistema-Hotel.git)
-- [Sistema de Manutenção Industrial](https://github.com/manu-hostin/Sistema-Manutencao-Industrial)
-
-### 📚 Atualmente aprendendo:
-- Desenvolvimento de Sistemas: **Front-end**, **Back-end** e **Banco de Dados**
-
-### 🌐 Todos os meus projetos estão disponíveis em:
-- [https://github.com/manu-hostin](https://github.com/manu-hostin)
-
-### 📫 Como me encontrar:
-- Email: **emanuellehostin@gmail.com**
-- LinkedIn: [Clique aqui para acessar](https://www.linkedin.com/in/emanuelle-cristina-hostin-764728364/)
+## 💚 Sobre mim
+Meu nome é **Emanuelle Cristina Hostin**, tenho **17 anos**.  
+Sou natural de **Jaraguá do Sul - SC**, onde moro atualmente.  
+Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.  
+**Unindo lógica e empatia para transformar ideias em soluções.**  
 
 ---
 
-### 🌎 Conecte-se comigo:
-<p align="left">
-  <a href="https://www.linkedin.com/in/emanuelle-cristina-hostin-764728364/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:emanuellehostin@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/manu-hostin" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub"/>
-  </a>
+## 🚀 Tecnologias que utilizo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql,git,docker,vscode,idea" />
 </p>
 
 ---
 
-### 🛠️ Linguagens e Ferramentas:
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+## 📌 Alguns dos meus repositórios
+
+🔹 [**gerenciamentoDeBiblioteca.js**](#) – Sistema em **JavaScript**  
+🔹 [**ManutencaoIndustrial**](#) – Projeto em **Java**  
+🔹 [**logistica_entregas**](#) – Aplicação em **Java**  
+🔹 [**sistema-banco**](#) – Prova prática em **Java**  
+🔹 [**lista-telefonica**](#) – CRUD em **Java**  
+🔹 [**Atividades-js**](#) – Exercícios em **JavaScript**  
+
+(Confira todos os meus repositórios no menu à esquerda ⬅️)  
+
+---
+
+## 🌿 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=manu-hostin&show_icons=true&theme=dark&title_color=27ae60&icon_color=27ae60&text_color=ffffff&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-hostin&layout=compact&theme=dark&title_color=27ae60&text_color=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 💌 Onde me encontrar
+
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/manu-hostin">
+    <img src="https://img.shields.io/badge/GitHub-0b6b3a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  <!-- Email -->
+  <a href="mailto:emanuelle_hostin@estudante.sesisenai.org.br">
+    <img src="https://img.shields.io/badge/Email-145A32?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
