@@ -55,3 +55,5 @@ Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
   </a>
 </p>
 
+![snake gif](https://github.com/manu-hostin/manu-hostin/blob/output/github-contribution-grid-snake.svg)
+
