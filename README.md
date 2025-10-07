@@ -22,12 +22,9 @@ Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
 
 ## 📌 Alguns dos meus repositórios
 
-🔹 [**gerenciamentoDeBiblioteca.js**](#) – Sistema em **JavaScript**  
-🔹 [**ManutencaoIndustrial**](#) – Projeto em **Java**  
-🔹 [**logistica_entregas**](#) – Aplicação em **Java**  
-🔹 [**sistema-banco**](#) – Prova prática em **Java**  
-🔹 [**lista-telefonica**](#) – CRUD em **Java**  
-🔹 [**Atividades-js**](#) – Exercícios em **JavaScript**  
+🔹 [**Gerenc.Biblioteca-JS**](https://github.com/manu-hostin/Gerenc.Biblioteca-JS.git) – Sistema em **JavaScript**  
+🔹 [**Manutencao-Industrial**](https://github.com/manu-hostin/Sistema-Manutencao-Industrial.git) – Projeto em **Java**  
+🔹 [**Landing-AIWritingTools**]([#](https://github.com/manu-hostin/Landing-AIWritingTools.git)) – Aplicação em **HTML** e **CSS**  
 
 (Confira todos os meus repositórios no menu à esquerda ⬅️)  
 
