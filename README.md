@@ -25,8 +25,8 @@ Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
 🔹 [**Gerenc.Biblioteca-JS**](https://github.com/manu-hostin/Gerenc.Biblioteca-JS.git) – Sistema em **JavaScript**  
 🔹 [**Manutencao-Industrial**](https://github.com/manu-hostin/Sistema-Manutencao-Industrial.git) – Projeto em **Java**  
 🔹 [**Landing-AIWritingTools**](https://github.com/manu-hostin/Landing-AIWritingTools.git) – Aplicação em **HTML** e **CSS**  
-🔹 [**Projeto-Bootstrap**](https://github.com/manu-hostin/Projeto-Bootstrap.git) – Aplicação front-end com **Bootstrap**
-🔹 [**Projeto-Tailwind**](https://github.com/manu-hostin/Tailwind-Cafeteria.git) – Aplicação front-end com **Tailwind**
+🔹 [**Projeto-Bootstrap**](https://github.com/manu-hostin/Projeto-Bootstrap.git) – Aplicação front-end com **Bootstrap**  
+🔹 [**Projeto-Tailwind**](https://github.com/manu-hostin/Tailwind-Cafeteria.git) – Aplicação front-end com **Tailwind**  
 
 (Confira todos os meus repositórios no menu à esquerda ⬅️)  
 
