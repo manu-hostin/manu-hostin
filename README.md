@@ -55,5 +55,4 @@ Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
   </a>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/manu-hostin/snk/refs/heads/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
