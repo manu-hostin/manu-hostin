@@ -4,7 +4,7 @@
 
 ---
 
-## 💚 Sobre mim
+## Sobre mim
 Meu nome é **Emanuelle Cristina Hostin**, tenho **17 anos**.  
 Sou natural de **Jaraguá do Sul - SC**, onde moro atualmente.  
 Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.  
@@ -15,7 +15,7 @@ Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
 ## 🚀 Tecnologias que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql,git,docker,vscode,idea,kotlin,androidstudio,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql,git,docker,vscode,idea,kotlin,androidstudio,arduino,bootstrap,tailwind" />
 </p>
 
 
@@ -28,8 +28,7 @@ Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
 🔹 [**Landing-AIWritingTools**](https://github.com/manu-hostin/Landing-AIWritingTools.git) – Aplicação em **HTML** e **CSS**  
 🔹 [**Projeto-Bootstrap**](https://github.com/manu-hostin/Projeto-Bootstrap.git) – Aplicação front-end com **Bootstrap**  
 🔹 [**Projeto-Tailwind**](https://github.com/manu-hostin/Tailwind-Cafeteria.git) – Aplicação front-end com **Tailwind**  
-
-(Confira todos os meus repositórios no menu à esquerda ⬅️)  
+ 
 
 ---
 
