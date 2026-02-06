@@ -15,7 +15,7 @@ Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
 ## 🚀 Tecnologias que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,git,docker,androidstudio,arduino,postman" />
+  <img src="https://skillicons.dev/icons?i=eclipse,figma,idea,vscode,docker,androidstudio,arduino,postman,notion,git" />
   <br>
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,python,bootstrap,tailwind,kotlin" />
 </p>
