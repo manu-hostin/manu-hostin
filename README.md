@@ -33,15 +33,6 @@ Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
 
 ---
 
-## 🌿 Estatísticas do GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=manu-hostin&show_icons=true&theme=dark&title_color=27ae60&icon_color=27ae60&text_color=ffffff&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-hostin&layout=compact&theme=dark&title_color=27ae60&text_color=ffffff&hide_border=true" />
-</p>
-
----
-
 ## 💌 Onde me encontrar
 
 <p align="center">
