@@ -1,14 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0B6B3A&center=true&vCenter=true&random=false&width=600&lines=✨+Bem-vindo(a)+ao+meu+GitHub!+✨">
+  👩‍💻 Emanuelle Cristina Hostin
 </h1>
 
----
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas • Front-end & Back-end
+</p>
 
+
+---
 ## Sobre mim
-Meu nome é **Emanuelle Cristina Hostin**, tenho **17 anos**.  
-Sou natural de **Jaraguá do Sul - SC**, onde moro atualmente.  
-Estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.  
-**Unindo lógica e empatia para transformar ideias em soluções.**  
+
+Meu nome é **Emanuelle Cristina Hostin**, tenho **18 anos** e moro em **Jaraguá do Sul – SC**.  
+Sou estudante de **Desenvolvimento de Sistemas** no **CentroWEG**.
+
+Tenho interesse em transformar problemas reais em **soluções simples, funcionais e bem estruturadas**, unindo **lógica, organização e empatia** no desenvolvimento de software.
+
 
 ---
 
