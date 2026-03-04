@@ -39,6 +39,13 @@ Tenho interesse em transformar problemas reais em **soluções simples, funciona
  
 
 ---
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manu-hostin&theme=dark&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakNum=00FF7F&sideNums=00FF7F&dates=00FF7F&locale=pt_BR" alt="GitHub Streak">
+</p>
+
+---
 
 ## 💌 Onde me encontrar
 
